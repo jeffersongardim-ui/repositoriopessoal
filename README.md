@@ -12,7 +12,7 @@ Sou um perfil **mão na massa** que junta **tecnologia + produto + indústria**:
 ## O que você pode encontrar aqui
 - Projetos e experimentos de **programação**
 - Protótipos de **IoT/eletrônica**
-- Estudos da faculdade (quando fizer sentido publicar)
+- Estudos da 
 - Anotações técnicas e pequenos utilitários
 
 ## Como eu trabalho
